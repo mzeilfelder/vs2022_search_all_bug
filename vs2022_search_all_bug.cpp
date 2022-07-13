@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+int dummy()
+{
+	// checking if adding a new functions also causes problems
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
