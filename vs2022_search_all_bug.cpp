@@ -5,7 +5,8 @@
 
 int dummy()
 {
-	// checking if adding a new functions also causes problems
+	// I also had the problem with files that existed in both branches, but can't reproduce that yet it seems
+	// just a dummy
 }
 
 int main()
