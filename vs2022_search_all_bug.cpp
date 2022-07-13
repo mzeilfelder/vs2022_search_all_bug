@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+void itsFooBarTime()
+{
+	// checking if adding another function here will confuse master branch search
+}
+
 int main()
 {
     std::cout << "Lorem ipsum\n";
