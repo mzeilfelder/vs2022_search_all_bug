@@ -1,5 +1,6 @@
 # vs2022_search_all_bug
 test-repository to reproduce a problem with the search-all functionality in VS2022
+It got fixed with the 17.3.2 update.
 
 To reproduce:  
 Start with main branch.  
